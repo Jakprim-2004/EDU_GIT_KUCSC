@@ -1,1 +1,20 @@
-.history
+# Visual Studio Code
+.vscode/
+.history/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+
+# Utility
+*.tmp
+*.bak
+Util/controllers/
+
+#env
+.env
+
